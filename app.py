@@ -11,3 +11,6 @@ def index():
 @app.route('/submit', methods=['POST'])
 def submit():
     return "Thanks for signing up!"
+
+if __name__ == '__main__':
+    app.run()
