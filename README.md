@@ -5,7 +5,7 @@ Boilerplate code for Flask applications deployed on Heroku
 
 Recommended to set up virtualenv:
 
-    virtualenv venv
+    virtualenv env
 
 Then install the required libraries:
     
